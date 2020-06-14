@@ -59,7 +59,7 @@ while (True):
         b.delete();
     if a==4:
         b.sort();
-수업내용중 threading 문제 부분.
+//수업내용중 threading 문제 부분.
 import threading
 import time
 class sum:
